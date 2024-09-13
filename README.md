@@ -42,7 +42,8 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
-![alt text](/op-img/file1.png)
+![image](https://github.com/user-attachments/assets/216f0e4a-a333-4691-9abb-6821e6e0ffd7)
+
 
 cat < file2
 ## OUTPUT
