@@ -1067,7 +1067,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/5aa1dae8-11d7-41d5-9070-3792471dba8e)
+![img 1](https://github.com/user-attachments/assets/fd59efcb-654d-40ea-b8a5-eb13e95a9183)
+
 
 
  cat exread1.sh
@@ -1081,7 +1082,8 @@ $ chmod 755 exread1.sh
 $ ./exread1.sh 
   ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/7427f865-f210-439d-8bf8-4868b864776f)
+![img 1](https://github.com/user-attachments/assets/224a3fb7-5246-4c20-be9e-ae7212e0b701)
+
 
 
 cat funcex.sh
